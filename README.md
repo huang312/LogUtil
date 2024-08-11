@@ -1,2 +1,2 @@
 # LogUtil
-A a tiny log util ifor Java.
+A a tiny log util for Java.
